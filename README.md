@@ -38,6 +38,9 @@ Plataforma de gestión financiera desarrollada para REVAL S.A.S. Permite el cont
 #### 3. 📊 [Trabajo Final Análisis](https://github.com/LEYNHERHINESTROZA/trabajo-final-analisis)
 Un panel web interactivo que extrae información en crudo (CSV), la procesa y limpia usando la librería Pandas de Python, y luego sirve métricas dinámicas a través de una API RESTful en PHP hacia gráficos interactivos en Chart.js.
 
+#### 4. 💳 [Panel de Préstamos](https://github.com/LEYNHERHINESTROZA/panel-prestamos)
+Panel web de visualización y gestión de préstamos activos desarrollado de forma independiente para fortalecer habilidades en desarrollo frontend y backend con HTML, CSS, JavaScript, PHP y MySQL.
+
 ---
 
 ### 💼 Experiencia Laboral
