@@ -35,7 +35,7 @@ Plataforma Fullstack que convierte documentos (PDF, DOCX, TXT) en audiolibros ut
 #### 2. 💰 [Sistema de Gestión de Préstamos PHP](https://github.com/LEYNHERHINESTROZA/gestion-prestamos-php)
 Plataforma de gestión financiera desarrollada para REVAL S.A.S. Permite el control de abonos, cálculo automático de intereses, manejo de saldo restante y alertas de vencimiento con una base de datos relacional MySQL robusta.
 
-#### 3. 📊 [Dashboard Analítico Inmobiliario](https://github.com/LEYNHERHINESTROZA/trabajo-final-analisis)
+#### 3. 📊 [Trabajo Final Análisis](https://github.com/LEYNHERHINESTROZA/trabajo-final-analisis)
 Un panel web interactivo que extrae información en crudo (CSV), la procesa y limpia usando la librería Pandas de Python, y luego sirve métricas dinámicas a través de una API RESTful en PHP hacia gráficos interactivos en Chart.js.
 
 ---
